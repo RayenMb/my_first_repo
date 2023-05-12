@@ -1,1 +1,2 @@
-"Tekouin" 
+#!/bin/bash
+echo "Tekouin"
